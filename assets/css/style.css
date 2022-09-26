@@ -64,8 +64,8 @@ p {
 }
 
 .hero img {
-    height: 800px;
-    width: auto;
+    height: 130vh;
+    width: 100%;
 }
 
 .float-left {
